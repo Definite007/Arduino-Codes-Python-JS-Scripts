@@ -1,2 +1,2 @@
-# Arduino-Codes
-The FFA modified codes
+# Arduino-Codes and Python Scripts
+The Free For All (FFA) modified codes
